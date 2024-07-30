@@ -1,4 +1,4 @@
-[This is my actual repository home.](https://git.colean.cc)
+[This is my actual repository home.](https://git.colean.cc/threeoh6000)
 
 <!---
 threeoh6000/threeoh6000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
